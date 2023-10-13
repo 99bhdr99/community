@@ -25,3 +25,4 @@ end
 #    discussion.add_label(label_id: stale_label_id)
 #  end
 #end
+#{delete}
